@@ -1,2 +1,2 @@
 print("holamundo")
-int = 1
+int = 10
